@@ -1,0 +1,10 @@
+com\signos\musicapi\repository\CancionRepository.class
+com\signos\musicapi\service\ItunesExternalService.class
+com\signos\musicapi\dto\CancionDTO.class
+com\signos\musicapi\controller\CancionController.class
+com\signos\musicapi\model\Cancion.class
+com\signos\musicapi\service\CancionService.class
+com\signos\musicapi\repository\GeneroRepository.class
+com\signos\musicapi\component\MusicDatabaseHealthIndicator.class
+com\signos\musicapi\SignosMusicApiApplication.class
+com\signos\musicapi\model\Genero.class
